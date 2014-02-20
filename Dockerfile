@@ -1,4 +1,4 @@
-FROM ubuntu:12.04
+FROM debian:wheezy
 
 RUN apt-get update
 
